@@ -100,3 +100,6 @@ pip install -r requirements.txt
 ### Start Script
 
 - **Once all the steps are completed, you can launch the script by using the command `python3 DrugGeneExplorer.py`**
+
+> [!IMPORTANT]
+> `In progress of finalizing everything; it should be ready within a few days.`
