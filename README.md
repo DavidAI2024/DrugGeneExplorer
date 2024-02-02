@@ -30,7 +30,7 @@
 
 > A DrugGeneExplorer robot based on Coopilot with no risk, very stable! 🚀
 
-## 🎤 Introduction
+## Introduction
 
 > This Python bot is designed to gather interactions data from the Drug-Gene Interaction Database (`DGIdb`) and utilizes the `sydney-py` library to obtain more detailed information about specific interactions.
 
