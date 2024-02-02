@@ -1,6 +1,15 @@
 # <img src="https://i.ibb.co/bJtL1KV/52f6be4a-16d2-4f31-8e90-b8cd20670810-removebg.png" width="28px" /> DrugGeneExplorer
 
 &ensp;[<kbd> <br> Introduction <br> </kbd>](#Introduction)&ensp;
+&ensp;[<kbd> <br> Features <br> </kbd>](#Features)&ensp;
+&ensp;[<kbd> <br> Getting Start <br> </kbd>](#Getting-Start)&ensp;
+&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
+
+
+
+
+
+
 
 <div align="center">
   <img width="200" src="https://i.ibb.co/bJtL1KV/52f6be4a-16d2-4f31-8e90-b8cd20670810-removebg.png">
@@ -34,7 +43,7 @@
 
 > This Python bot is designed to gather interactions data from the Drug-Gene Interaction Database (`DGIdb`) and utilizes the `sydney-py` library to obtain more detailed information about specific interactions.
 
-## 🌟 Features
+## Features
 
 - [x] **Interactive User Interface:**
   - Welcomes the user and prompts for input.
@@ -76,7 +85,7 @@
   - Offers a clear structure for easy understanding of the code logic.
 
 
-## 🚀 Getting Start
+## Getting-Start
 
 > It is recommended that the Python version be between 3.9.X~3.10.X, version 3.10-3.11 is perfect
 
