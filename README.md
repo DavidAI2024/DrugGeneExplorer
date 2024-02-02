@@ -1,16 +1,5 @@
 # <img src="https://i.ibb.co/bJtL1KV/52f6be4a-16d2-4f31-8e90-b8cd20670810-removebg.png" width="28px" /> DrugGeneExplorer
 
-&ensp;[<kbd> <br> Introduction <br> </kbd>](#Introduction)&ensp;
-&ensp;[<kbd> <br> Features <br> </kbd>](#Features)&ensp;
-&ensp;[<kbd> <br> Getting Start <br> </kbd>](#Getting-Start)&ensp;
-&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
-
-
-
-
-
-
-
 <div align="center">
   <img width="200" src="https://i.ibb.co/bJtL1KV/52f6be4a-16d2-4f31-8e90-b8cd20670810-removebg.png">
 </div>
@@ -33,11 +22,18 @@
   </a>
 </p>
 
+
 > [!NOTE]
 > A special thanks to **[vsakkas](https://github.com/vsakkas/sydney.py/)** for creating the Sydney-py library, and to all those who contributed to its inception and upkeep.
 
 
+
 > A DrugGeneExplorer robot based on Coopilot with no risk, very stable! 🚀
+
+&ensp;[<kbd> <br> Introduction <br> </kbd>](#Introduction)&ensp;
+&ensp;[<kbd> <br> Features <br> </kbd>](#Features)&ensp;
+&ensp;[<kbd> <br> Getting Start <br> </kbd>](#Getting-Start)&ensp;
+&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
 
 ## Introduction
 
