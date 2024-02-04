@@ -39,46 +39,40 @@
 
 > This Python bot is designed to gather interactions data from the Drug-Gene Interaction Database (`DGIdb`) and utilizes the `sydney-py` library to obtain more detailed information about specific interactions.
 
+
 ## Features
 
-- [x] **Interactive User Interface:**
-  - Welcomes the user and prompts for input.
-  - Asks for the names of three drugs.
-  - Allows the user to choose whether to get additional information on a specific gene.
-  - Enables the user to continue making requests or exit the program.
+- [x] **Interaction with Sydney**
+  - Utilizes the Sydney module to obtain detailed and contextually informative responses on drug-gene interactions.
 
-- [x] **Drug-Gene Interaction Retrieval:**
-  - Utilizes the DGIdb API to fetch interactions for the specified drugs.
-  - Processes the retrieved data to extract relevant information.
+- [x] **Command-Line Interface (CLI)**
+  - Provides an intuitive command-line interface, facilitating script interaction.
 
-- [x] **Detailed Information with "sydney-py":**
-  - Uses the "sydney-py" library to obtain detailed information about a selected gene.
-  - Presents the user with options to explore additional details about a gene based on the interaction results.
+- [x] **Graphical Gene Interactions Chart**
+  - Generates a bar chart of gene interactions concerning a user-selected gene, offering a visual representation of information.
 
-- [x] **Error Handling:**
-  - Handles connection errors gracefully, providing informative messages.
-  - Catches various exceptions during the API request process and displays appropriate error messages.
+- [x] **Elegant Response in PyQt5 Box**
+  - Displays responses in a graphical box created with PyQt5, providing a visually pleasing and intuitive user experience.
 
-- [x] **Rich Console Output:**
-  - Utilizes the "rich" library for visually appealing console output.
-  - Presents information in a structured and easy-to-read format using panels.
+- [x] **Rich Box Visualization**
+  - Presents drug-gene interactions in visually formatted Rich boxes.
 
-- [x] **Asynchronous Execution:**
-  - Uses asynchronous programming with `asyncio.run(main())` for efficient handling of user interactions and API requests.
+- [x] **Interaction Details**
+  - Displays important interaction details, including scores, interaction types, gene names, and more.
 
-- [x] **Code Modularity:**
-  - Organizes code into functions for improved readability and maintainability.
-  - Separates concerns for handling user input, making API requests, processing data, and interacting with "sydney-py."
+- [x] **Minimum Requirements**
+  - Requires Python 3.9 - 3.11 as the execution environment.
+  - External dependencies, including rich, sydney, PyQt5, requests, and matplotlib, can be easily installed with the command `pip install -r requirements.txt`.
 
-- [x] **Dependencies:**
-  - Lists necessary dependencies (requests, sydney, rich) for users to install before running the script.
+- [x] **Simple Usage Instructions**
+  - Follow the provided instructions to install dependencies and run the script, making application usage straightforward and immediate.
 
-- [x] **Informative Welcome Message:**
-  - Displays a friendly welcome message with emojis to create a positive user experience.
+- [x] **Author Information**
+  - Provides a section dedicated to the project authors.
 
-- [x] **Documentation:**
-  - Includes inline comments explaining the purpose of functions and sections of the code.
-  - Offers a clear structure for easy understanding of the code logic.
+- [x] **Open Source License (MIT)**
+  - Distributed under the MIT license to ensure clear and transparent management of usage conditions.
+
 
 
 ## Getting-Start
