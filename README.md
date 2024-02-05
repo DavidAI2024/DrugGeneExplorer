@@ -162,3 +162,29 @@ pip install -r requirements.txt
 > Your feedback is valuable to us, and we'll do our best to address and resolve any concerns you may have.
 
 
+## <img src="https://i.ibb.co/ZWQFnLS/pills-bottle.png" width="45px" /> Dynamic Visualization of the Tool in Action
+
+| Start |
+| :-: |
+| ![Start](https://i.ibb.co/3dRyQ1t/Screenshot-2024-02-05-15-58-08-1920x1080.png) |
+
+| Drug-gene interaction research |
+| :-: |
+| ![Drug-Gene](https://i.ibb.co/jHd2Q8y/Screenshot-2024-02-05-15-58-28-1920x1080.png) |
+
+| Interaction results |
+| :-: |
+| ![Interactions](https://i.ibb.co/t4tykrC/Screenshot-2024-02-05-15-58-38-1920x1080.png) |
+
+| Graph of all genes interacting with the selected drug, highlighting the one with the most significant interference among them all. |
+| :-: |
+| ![Genes](https://i.ibb.co/GFjntRJ/Screenshot-2024-02-05-15-58-47-1920x1080.png) |
+
+| Selection of the gene to be passed to artificial intelligence for a detailed analysis of the interaction between the drug and the gene. |
+| :-: |
+| ![Image#1](https://i.ibb.co/Js8CR1x/Screenshot-2024-02-05-15-59-02-1920x1080.png) |
+| ![Image#2](https://i.ibb.co/qCdcCMC/Screenshot-2024-02-05-15-59-08-1920x1080.png) |
+
+| Final Response in both CLI (Command Line Interface) and GUI (Graphical User Interface) Formats. |
+| :-: |
+| ![FinalResponse](https://i.ibb.co/MgT6fsF/Screenshot-2024-02-05-16-01-57-1920x1080.png) |
