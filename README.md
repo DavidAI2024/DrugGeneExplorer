@@ -74,38 +74,42 @@ os.environ["BING_COOKIES"] = "<your-cookies>"
 ## <img src="https://i.ibb.co/LPp8y3N/genes.png" width="45px" /> Features
 
 - [x] **Interaction with Sydney**
-  - Utilizes the Sydney module to obtain detailed and contextually informative responses on drug-gene interactions.
+  - Utilizes the Sydney module to acquire detailed and contextually informative responses concerning drug-gene interactions.
 
 - [x] **Command-Line Interface (CLI)**
-  - Provides an intuitive command-line interface, facilitating script interaction.
+  - Offers an intuitive command-line interface, facilitating seamless interaction with scripts.
 
 - [x] **Graphical Gene Interactions Chart**
-  - Generates a bar chart of gene interactions concerning a user-selected gene, offering a visual representation of information.
+  - Generates a bar chart illustrating gene interactions related to a user-selected gene, providing a visual representation of information.
 
 - [x] **Elegant Response in PyQt5 Box**
-  - Displays responses in a graphical box created with PyQt5, providing a visually pleasing and intuitive user experience.
+  - Displays responses in a graphical box created with PyQt5, offering a visually pleasing and user-friendly experience.
+
+- [x] **Customizable Font:**
+  - Users can enhance personalization by changing the font. Simply install the preferred font locally and specify the TTF file path.
 
 - [x] **Rich Box Visualization**
-  - Presents drug-gene interactions in visually formatted Rich boxes.
+  - Presents drug-gene interactions in visually formatted Rich boxes for enhanced clarity.
 
 - [x] **Interaction Details**
-  - Displays important interaction details, including scores, interaction types, gene names, and more.
+  - Exhibits crucial interaction details, including scores, interaction types, gene names, and more.
 
 - [x] **Minimum Requirements**
   - Requires Python 3.9 - 3.11 as the execution environment.
-  - External dependencies, including rich, sydney, PyQt5, requests, and matplotlib, can be easily installed with the command `pip install -r requirements.txt`.
+  - External dependencies, such as rich, Sydney, PyQt5, requests, and matplotlib, can be effortlessly installed with the command `pip install -r requirements.txt`.
 
 - [x] **Simple Usage Instructions**
-  - Follow the provided instructions to install dependencies and run the script, making application usage straightforward and immediate.
+  - Follow the provided instructions to install dependencies and run the script, ensuring a straightforward and immediate application usage.
 
 - [x] **Author Information**
-  - Provides a section dedicated to the project authors.
+  - Includes a dedicated section for project authors.
 
 - [x] **Open Source License (MIT)**
-  - Distributed under the MIT license to ensure clear and transparent management of usage conditions.
+  - Distributed under the MIT license, ensuring transparent and clear management of usage conditions.
 
 - [x] **Reset Conversation Command**
-  - Introducing a new feature, the conversation with the AI can be reset using the command "!reset."
+  - Introduces a new feature: users can reset the conversation with the AI using the command "!reset."
+
 
 
 
