@@ -24,19 +24,14 @@
 
 
 > [!WARNING]
-> <details> 
-  <summary><strong>⚠️ Attenzione: Versione Alpha</strong></summary>
+>  <strong>⚠️ Warning: Alpha Version</strong>
+> This code is currently in an alpha phase and may contain bugs or instability. I am an evolving novice and learning during the development process. This tool was created in my spare time, fueled by a passion for knowledge and experimentation.
+> 
+> **Required Changes:**
+> Since this is an alpha version, it is likely that changes or optimizations may be necessary to improve the efficiency and stability of the tool. You are encouraged to contribute, suggest improvements, or report issues. Your participation is crucial to make this tool more robust and functional.
+> 
+> Thanks to everyone who will use this tool and contribute to its evolution. Your collaboration is invaluable for the continuous improvement of the project. <img src="https://i.ibb.co/S06VSzt/thank-you-1.png" width="28px" />
 
-Questo codice è attualmente in una fase alpha e potrebbe contenere bug o instabilità. Sono un neofita in evoluzione e sto imparando durante il processo di sviluppo. Questo tool è stato creato nel mio tempo libero, alimentato dalla passione per la conoscenza e la sperimentazione.
-
-**Modifiche Necessarie:**
-Poiché questa è una versione alpha, è probabile che siano necessarie modifiche o ottimizzazioni per migliorare l'efficienza e la stabilità del tool. Siete incoraggiati a contribuire, suggerire miglioramenti o segnalare problemi. La vostra partecipazione è fondamentale per rendere questo strumento più robusto e funzionale.
-
-Grazie a tutti coloro che useranno questo tool e a chi parteciperà alla sua evoluzione. La vostra collaborazione è preziosa per il miglioramento continuo del progetto.
-
-Ringraziamenti,  
-**Il Tuo Nome/O Nome del Progetto**
-</details>
 
 
 > [!NOTE]
