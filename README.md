@@ -149,3 +149,12 @@ pip install -r requirements.txt
 >
 > If your terminal doesn't support emojis, you may encounter unexpected visualizations or unrecognized characters. To avoid this issue, we recommend using a terminal that is compatible with emojis or enabling emoji support in your environment.
 
+> [!TIP]
+> **Note for Handling Infinite Loop:**
+> 🔄 In the rare event that the tool enters an infinite loop without providing a response, you can interrupt the process by simultaneously pressing `Ctrl + Z` or `Ctrl + C` on your keyboard.
+>
+> This keyboard shortcut combination will help you terminate the tool's execution and regain control of your terminal. If you experience persistent issues or have any questions, please consider opening an [issue](https://github.com/DavidAI2024/DrugGeneExplorer/issues) in the designated "Issues" section.
+>
+> Your feedback is valuable to us, and we'll do our best to address and resolve any concerns you may have.
+
+
