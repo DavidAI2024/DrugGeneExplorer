@@ -1,6 +1,6 @@
 requests
 asyncio
-sydney
+sydney-py
 rich
 matplotlib
 PyQt5
