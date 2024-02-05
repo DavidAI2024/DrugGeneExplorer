@@ -23,6 +23,22 @@
 </p>
 
 
+> [!WARNING]
+> <details> 
+  <summary><strong>⚠️ Attenzione: Versione Alpha</strong></summary>
+
+Questo codice è attualmente in una fase alpha e potrebbe contenere bug o instabilità. Sono un neofita in evoluzione e sto imparando durante il processo di sviluppo. Questo tool è stato creato nel mio tempo libero, alimentato dalla passione per la conoscenza e la sperimentazione.
+
+**Modifiche Necessarie:**
+Poiché questa è una versione alpha, è probabile che siano necessarie modifiche o ottimizzazioni per migliorare l'efficienza e la stabilità del tool. Siete incoraggiati a contribuire, suggerire miglioramenti o segnalare problemi. La vostra partecipazione è fondamentale per rendere questo strumento più robusto e funzionale.
+
+Grazie a tutti coloro che useranno questo tool e a chi parteciperà alla sua evoluzione. La vostra collaborazione è preziosa per il miglioramento continuo del progetto.
+
+Ringraziamenti,  
+**Il Tuo Nome/O Nome del Progetto**
+</details>
+
+
 > [!NOTE]
 > A special thanks to **[vsakkas](https://github.com/vsakkas/sydney.py/)** for creating the Sydney-py library, and to all those who contributed to its inception and upkeep.
 
