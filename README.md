@@ -143,5 +143,9 @@ pip install -r requirements.txt
  python3 DrugGeneExplorer.py
  ```
 
-> [!IMPORTANT]
-> `In progress of finalizing everything; it should be ready within a few days.`
+> [!WARNING]
+> **Important Note:**
+> <img src="here" width="28px" /> This tool includes the display of emojis to enhance the user experience. Before using the tool, make sure that your terminal supports emoji rendering. Some terminals might not display emojis correctly, which could affect the appearance and understanding of the output.
+>
+> If your terminal doesn't support emojis, you may encounter unexpected visualizations or unrecognized characters. To avoid this issue, we recommend using a terminal that is compatible with emojis or enabling emoji support in your environment.
+
