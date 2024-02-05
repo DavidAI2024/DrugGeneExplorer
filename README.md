@@ -35,12 +35,12 @@
 &ensp;[<kbd> <br> Getting Start <br> </kbd>](#Getting-Start)&ensp;
 &ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
 
-## Introduction
+## <img src="https://i.ibb.co/nRxHpxT/medicine.png" width="45px" /> Introduction
 
 > This Python bot is designed to gather interactions data from the Drug-Gene Interaction Database (`DGIdb`) and utilizes the `sydney-py` library to obtain more detailed information about specific interactions.
 
 
-## Features
+## <img src="https://i.ibb.co/LPp8y3N/genes.png" width="45px" /> Features
 
 - [x] **Interaction with Sydney**
   - Utilizes the Sydney module to obtain detailed and contextually informative responses on drug-gene interactions.
@@ -75,7 +75,7 @@
 
 
 
-## Getting-Start
+## <img src="https://i.ibb.co/CbsKHRq/start-button.png" width="45px" /> Getting Start
 
 > It is recommended that the Python version be between 3.9.X~3.10.X, version 3.10-3.11 is perfect
 
@@ -85,20 +85,27 @@
 https://github.com/BlackDicky/DrugGeneExplorer.git
 ```
 
-## Dependencies
-- requests
-- io
-- asyncio
-- sydney
-- rich
+## <img src="https://i.ibb.co/ZG8JF1H/database.png" width="45px" /> Dependencies
 
-#### 2. Install dependencies
+Make sure to install the following dependencies before running the project:
+
+- **requests**: HTTP library for making requests.
+- **asyncio**: Library for writing asynchronous code using coroutines.
+- **sydney**: [SydneyClient](https://github.com/vsakkas/sydney.py) - A library that interfaces with Copilot by Microsoft, leveraging the artificial intelligence of Bing and powered by GPT-4.
+- **rich**: Terminal rendering library for rich text and beautiful formatting.
+- **matplotlib**: Plotting library for creating visualizations.
+- **PyQt5**: Python bindings for the Qt application framework.
+- **pandas**: Data manipulation library for working with structured data.
+- **kaleido**: Static image export for Plotly charts.
+
+To install the dependencies, you can use the provided `requirements.txt` file. Run the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Start Script
+### <img src="https://i.ibb.co/SdDdstT/gene-therapy.png" width="40px" /> Start Script
+
 
 - **Once all the steps are completed, you can launch the script by using the command `python3 DrugGeneExplorer.py`**
 
