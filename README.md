@@ -39,6 +39,29 @@
 
 > This Python bot is designed to gather interactions data from the Drug-Gene Interaction Database (`DGIdb`) and utilizes the `sydney-py` library to obtain more detailed information about specific interactions.
 
+> [!IMPORTANT]
+> Before using Sydney.py, it's essential to gather the necessary authentication cookies from the Copilot web page. These cookies will be utilized to authenticate your requests to the Copilot API.
+
+To obtain the cookies, follow these steps using Microsoft Edge:
+
+1. Navigate to the Copilot web page.
+2. Open the developer tools in your browser (typically by pressing F12 or right-clicking on the chat dialog and selecting Inspect).
+3. Access the Network tab to observe all requests sent to Copilot.
+4. Write a message in the chat dialog on the web page.
+5. Identify a request named `create?bundleVersion=XYZ` and click on it.
+6. Scroll down to the requests headers section and copy the entire value after the `Cookie:` field.
+
+Next, set the obtained value as an environment variable in your shell:
+
+```bash
+export BING_COOKIES=<your-cookies>
+```
+or, in your Python code:
+
+```python 
+os.environ["BING_COOKIES"] = "<your-cookies>"
+```
+
 
 ## <img src="https://i.ibb.co/LPp8y3N/genes.png" width="45px" /> Features
 
