@@ -126,7 +126,10 @@ pip install -r requirements.txt
 ### <img src="https://i.ibb.co/SdDdstT/gene-therapy.png" width="40px" /> Start Script
 
 
-- **Once all the steps are completed, you can launch the script by using the command `python3 DrugGeneExplorer.py`**
+- **Once all the steps are completed, you can launch the script by using the command:**
+```bash
+ python3 DrugGeneExplorer.py
+ ```
 
 > [!IMPORTANT]
 > `In progress of finalizing everything; it should be ready within a few days.`
