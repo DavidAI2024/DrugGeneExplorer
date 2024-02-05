@@ -1,0 +1,8 @@
+requests
+asyncio
+sydney
+rich
+matplotlib
+PyQt5
+pandas
+kaleido
