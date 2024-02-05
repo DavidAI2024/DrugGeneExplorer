@@ -145,7 +145,7 @@ pip install -r requirements.txt
 
 > [!WARNING]
 > **Important Note:**
-> <img src="here" width="28px" /> This tool includes the display of emojis to enhance the user experience. Before using the tool, make sure that your terminal supports emoji rendering. Some terminals might not display emojis correctly, which could affect the appearance and understanding of the output.
+> <img src="https://i.ibb.co/xh8wChq/party-1.png" width="28px" /> This tool includes the display of emojis to enhance the user experience. Before using the tool, make sure that your terminal supports emoji rendering. Some terminals might not display emojis correctly, which could affect the appearance and understanding of the output.
 >
 > If your terminal doesn't support emojis, you may encounter unexpected visualizations or unrecognized characters. To avoid this issue, we recommend using a terminal that is compatible with emojis or enabling emoji support in your environment.
 
