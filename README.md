@@ -24,7 +24,7 @@
 
 
 > [!WARNING]
->  <strong><img src="https://i.ibb.co/S06VSzt/thank-you-1.png" width="28px" />
+>  <strong><img src="https://i.ibb.co/Kjm2rfS/alert.png" width="28px" />
 Alpha Version</strong>
 > This code is currently in an alpha phase and may contain bugs or instability. I am an evolving novice and learning during the development process. This tool was created in my spare time, fueled by a passion for knowledge and experimentation.
 > 
