@@ -104,6 +104,10 @@ os.environ["BING_COOKIES"] = "<your-cookies>"
 - [x] **Open Source License (MIT)**
   - Distributed under the MIT license to ensure clear and transparent management of usage conditions.
 
+- [x] **Reset Conversation Command**
+  - Introducing a new feature, the conversation with the AI can be reset using the command "!reset."
+
+
 
 
 ## <img src="https://i.ibb.co/CbsKHRq/start-button.png" width="45px" /> Getting Start
