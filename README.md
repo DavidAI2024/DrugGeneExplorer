@@ -30,10 +30,6 @@
 
 > A DrugGeneExplorer robot based on Coopilot with no risk, very stable! 🚀
 
-&ensp;[<kbd> <br> Introduction <br> </kbd>](#Introduction)&ensp;
-&ensp;[<kbd> <br> Features <br> </kbd>](#Features)&ensp;
-&ensp;[<kbd> <br> Getting Start <br> </kbd>](#Getting-Start)&ensp;
-&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
 
 ## <img src="https://i.ibb.co/nRxHpxT/medicine.png" width="45px" /> Introduction
 
