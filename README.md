@@ -70,7 +70,7 @@ or, in your Python code:
 os.environ["BING_COOKIES"] = "<your-cookies>"
 ```
 
-[!TIP]
+> [!TIP]
 > - `citations`: if set to `True`, the AI's response will include **links** to the sources from which it has extracted information. If set to `False`, the AI's response will not show citations. The default value is `False`.
 >
 > - `search`: if set to `True`, the AI will seek the answer through the **internet**, using Bing as the search engine. If set to `False`, the AI will only utilize its computational power, relying on its internal knowledge. The default value is `False`.
