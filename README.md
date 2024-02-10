@@ -155,6 +155,9 @@ pip install -r requirements.txt
 
 ### <img src="https://i.ibb.co/SdDdstT/gene-therapy.png" width="40px" /> Start Script
 
+> [Visit the Google Fonts website to explore the "Recursive" font](https://fonts.google.com/specimen/Recursive). Remember to install Google's "Recursive" font locally.
+
+
 
 - **Once all the steps are completed, you can launch the script by using the command:**
 ```bash
